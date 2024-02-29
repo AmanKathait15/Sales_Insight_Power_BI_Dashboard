@@ -22,7 +22,7 @@ visual representation to make data driven decisions. So, he hired a team of data
 By using the AIMS grid project management tool, we made sure what are the purpose, stakeholder, end result 
 and success criteria  of our project.
 
-<img src ="https://github.com/AmanKathait15/Sales_Insight_Power_BI_Dashboard/blob/master/SS/AIMS%20grid%20sales%20insights.jpg">
+<img src ="https://github.com/AmanKathait15/Sales_Insight_Power_BI_Dashboard/blob/main/SS/AIMS%20grid%20sales%20insights.jpg">
 
 ## Steps Followed in this project
 
@@ -66,19 +66,19 @@ and success criteria  of our project.
 #### Dashboard KPI Page
 
 -------
- <img src="https://github.com/AmanKathait15/Sales_Insight_Power_BI_Dashboard/blob/master/SS/Sales%20Insight%20-%20Page%20KPI.png" class="center">
+ <img src="https://github.com/AmanKathait15/Sales_Insight_Power_BI_Dashboard/blob/main/SS/Sales%20Insight%20-%20Page%20KPI.png" class="center">
  
  #### Dashboard Performance Insights
 
 -------
- <img src="https://github.com/AmanKathait15/Sales_Insight_Power_BI_Dashboard/blob/master/SS/Sales%20Insight%20-%20Page%20Performance%20Insights.png" class="center">
+ <img src="https://github.com/AmanKathait15/Sales_Insight_Power_BI_Dashboard/blob/main/SS/Sales%20Insight%20-%20Page%20Performance%20Insights.png" class="center">
  
 
  #### Dashboard Profit Analysis
  
  -----------
  
-  <img src="https://github.com/AmanKathait15/Sales_Insight_Power_BI_Dashboard/blob/master/SS/Sales%20Insight%20-%20Page%20Profit%20Analysis.png" class="center">
+  <img src="https://github.com/AmanKathait15/Sales_Insight_Power_BI_Dashboard/blob/main/SS/Sales%20Insight%20-%20Page%20Profit%20Analysis.png" class="center">
 
 
 
